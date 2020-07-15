@@ -1,11 +1,17 @@
 ### Hi there 👋
 
 I’m currently working on Digitec S.A
+
 I’m currently learning Telecom, Networking, Servers, Linux
+
 I’m looking to collaborate on Networking
+
 I’m looking for help with Linux, Servers, Telecom
+
 Ask me about Networking, Linux básico
+
 Pronouns: 🦉🍺
+
 Fun fact: ⚽ sports
 
 <!--
